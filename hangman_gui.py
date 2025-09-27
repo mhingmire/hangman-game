@@ -176,7 +176,7 @@ class hangman_game:
 class hangman_gui:
     def __init__(self, root):
         self.root = root
-        self.root.title("hangman game")
+        self.root.title("Hangman Game")
         self.game = hangman_game()
 
         #asking the category for user
