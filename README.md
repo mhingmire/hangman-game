@@ -18,7 +18,7 @@ Just your regular hangman game, built using **Tkinter**, with fun categories, a 
 1. Make sure you have **python** installed  
 2. Clone or download this repository  
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/mhingmire/hangman-game.git
 cd hangman
 ```
 3. Run the game
