@@ -25,6 +25,6 @@ cd hangman
 ```bash
 python hangman_gui.py
 ```
-<img width="2880" height="1800" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/851a5617-65c2-442b-ba2d-cb2c4b7ff114" />
-<img width="2880" height="1800" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/c6aec622-db09-4876-bab8-22c76dfae413" />
 <img width="2880" height="1800" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/9e4c0765-b2e0-4554-af8b-d0c401255dde" />
+<img width="2880" height="1800" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/c6aec622-db09-4876-bab8-22c76dfae413" />
+<img width="2880" height="1800" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/851a5617-65c2-442b-ba2d-cb2c4b7ff114" />
